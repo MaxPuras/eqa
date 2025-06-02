@@ -3,4 +3,8 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
     }
+
+    private void test() {
+        System.out.println("test");
+    }
 }
