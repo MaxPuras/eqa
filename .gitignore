@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+id_rsa.pub
+id_rsa.pub.pub
+y
+y.pub
