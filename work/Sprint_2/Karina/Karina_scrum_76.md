@@ -25,3 +25,4 @@
 ![](https://heaad.ru/wp-content/uploads/2021/06/Тестировщик-ПО..png)
 
 
+п
