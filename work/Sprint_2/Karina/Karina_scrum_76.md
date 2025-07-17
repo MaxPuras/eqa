@@ -23,6 +23,3 @@
 
 ![](https://i.pinimg.com/originals/34/8a/ab/348aaba7db3760b98c6d7d59905c8043.png)
 ![](https://heaad.ru/wp-content/uploads/2021/06/Тестировщик-ПО..png)
-
-
-п
